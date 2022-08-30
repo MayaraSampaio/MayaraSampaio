@@ -1,12 +1,5 @@
 ### Olá, eu sou a Mayara Sampaio!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
+### Hi, I'm Mayara Sampaio.
 <div align="center">
   <a href="https://github.com/MayaraSampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraSampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,8 +14,5 @@ Here are some ideas to get you started:
 
   <a href = "mayarasampaio.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayara-queiroz-sampaio-11a999236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/MayaraSampaio/MayaraSampaio/blob/output/github-contribution-grid-snake.svg)
- 
  
 </div>
