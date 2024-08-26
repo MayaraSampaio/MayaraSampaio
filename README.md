@@ -1,5 +1,7 @@
 ### Olá, eu sou a Mayara Sampaio!
-Hi, I'm Mayara Sampaio.
+##### Oi, pode me chamar de May.
+##### Hi, you can call me May.
+
 <div align="center">
   <a href="https://github.com/MayaraSampaio">
   <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=MayaraSampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
