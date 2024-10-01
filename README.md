@@ -1,4 +1,3 @@
-### Olá, eu sou a Mayara Sampaio!
 ##### Oi, pode me chamar de May.
 ##### Hi, you can call me May.
 
