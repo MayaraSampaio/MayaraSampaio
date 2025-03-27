@@ -2,16 +2,8 @@
 
 <p align="left"> 
   Hi, I'm Mayara and I love learne about new things.I hold a degree in Systems Analysis and Development, with a strong focus on <strong>back-end</strong> development.<br>
-  Currently, I'm working with Java and Spring Boot, focusing on developing efficient and scalable backend solutions.
-</p>
+  
 
-<p align="left">
-  🦄 Languages: <strong>Java, C#, JavaScript</strong>
-</p>
-
-<p align="left">
-  💼 Tools: <strong>Spring Boot, Hibernate, Git, Docker</strong>
-</p>
 
 <p align="left">
   💌 Feel free to reach out to me here: ⤵️
